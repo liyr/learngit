@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\loadwindow.o
+./release\settingwindow.o
+./release\editwindow.o
+./release\syssetting.o
+./release\process.o
+./release\editor.o
+./release\moc_mainwindow.o
+./release\moc_loadwindow.o
+./release\moc_settingwindow.o
+./release\moc_editwindow.o
+);

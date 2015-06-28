@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\loadwindow.o
+./debug\settingwindow.o
+./debug\editwindow.o
+./debug\syssetting.o
+./debug\process.o
+./debug\editor.o
+./debug\moc_mainwindow.o
+./debug\moc_loadwindow.o
+./debug\moc_settingwindow.o
+./debug\moc_editwindow.o
+);
